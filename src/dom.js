@@ -1,5 +1,6 @@
 const dom = {
-    parent: document.getElementById('parent'),
-};
+    input: document.getElementById('input'),
+    imagesContainer: document.querySelector('.images-container')
+}
 
 export default dom;
